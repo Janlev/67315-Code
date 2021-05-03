@@ -1,0 +1,3 @@
+/Users/yanirlevi/Documents/HUJI/First/CS/C++/67315-Code/Week1/Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yanirlevi/Documents/HUJI/First/CS/C++/67315-Code/Week1/Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yanirlevi/Documents/HUJI/First/CS/C++/67315-Code/Week1/Ex1/cmake-build-debug/CMakeFiles/Ex1.dir

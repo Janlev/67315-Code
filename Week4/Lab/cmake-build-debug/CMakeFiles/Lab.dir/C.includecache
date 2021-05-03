@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yanirlevi/Documents/HUJI/First/CS/C++/67315-Code/Week4/Lab/main.c
+stdio.h
+-
+stdlib.h
+-
+
